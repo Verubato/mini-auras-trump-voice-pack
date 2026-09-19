@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3
+
+Added WoW Forever support.
+
 ## 1.0.2
 
 Added a clip for Goremaw's Bite, the enemy debuff MiniAuras added to its
