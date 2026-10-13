@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5
+
+Updated for patch 12.1.5.
+
 ## 1.0.4
 
 Added a clip for Guardian of Ancient Kings and Feral Frenzy is now announced as just "Frenzy".
